@@ -1,8 +1,9 @@
 # RoundImageView
-Android 圆形头像 
+Android 圆形头像 By
 
 ## 效果图使用如下:
-![](../screenshot/img_screen_shot.png)
+![](screenshot/img_screen_shot.png)
+<img src="screenshot/img_screen_shot.png"/>
 
 ## Blog 实现过程：
 <https://blog.csdn.net/huangliniqng/article/details/100813623>
