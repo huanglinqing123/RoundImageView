@@ -2,9 +2,9 @@
 Android 圆形头像 
 
 ## 效果图使用如下:
-<img src="screenshot/img_screen_shot.png" width="100%"/>
+<img src="screenshot/img_screen_shot.png" width="180"/>
 
-## Blog 实现过程：
+## 实现过程：
 <https://blog.csdn.net/huangliniqng/article/details/100813623>
 
 ## 使用:
